@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3nQN2fKSHc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harthur\\Entity\\src\\Modules\\Domain\\Entity.Modules.Domain\\ValueObjects\\ValueObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harthur\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\Harthur\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Harthur\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Harthur\\.nuget\\packages\\netdevpack\\6.1.0\\netdevpack.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
